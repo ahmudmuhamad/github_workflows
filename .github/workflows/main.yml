@@ -15,3 +15,9 @@ jobs:
 
       - name: test urself
         run: echo "idk what to write"
+
+      - name: Checkout
+        uses: actions/checkout@v4.2.2
+
+      - name: list all files
+        run: ls -la
