@@ -21,3 +21,6 @@ jobs:
 
       - name: list all files
         run: ls -la
+
+      - name: contents of test.txt
+        run: cat test_checkout
