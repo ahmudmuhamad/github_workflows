@@ -12,3 +12,6 @@ jobs:
     steps:
       - name: print a welcome message
         run: echo "Hellooooo"
+
+      - name: test urself
+        run: echo "idk what to write"
