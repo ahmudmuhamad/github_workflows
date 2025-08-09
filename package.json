@@ -1,0 +1,17 @@
+{
+  "name": "simple-node.js",
+  "version": "1.0.0",
+  "description": "A simple Node.js app that greets a user.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "bash src/test.sh"
+  },
+  "keywords": [
+    "node",
+    "greeting",
+    "simple"
+  ],
+  "author": "",
+  "license": "ISC"
+}
